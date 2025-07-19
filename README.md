@@ -1,6 +1,6 @@
 # SwiftS3 KES
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/swift-s3/s4-kes-go.svg)](https://pkg.go.dev/github.com/swift-s3/s4-kes-go) ![GitHub Tag](https://img.shields.io/github/v/tag/swift-s3/kms-go?filter=kes*)
+[![Go Reference](https://pkg.go.dev/badge/github.com/swift-s3/s4-kes-go.svg)](https://pkg.go.dev/github.com/swift-s3/s4-kes-go) ![GitHub Tag](https://img.shields.io/github/v/tag/swift-s3/s4-kes-go)
 
 This repository contains the Go SDKs for SwiftS3 KES:
 
